@@ -4,7 +4,7 @@
   <a href="https://www.kaggle.com/ofrolova">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="your-URL">
+  <a href="https://instagram.com/o_frolova_?igshid=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   <a href="your-linkedin-URL">
