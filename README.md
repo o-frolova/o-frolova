@@ -52,7 +52,7 @@ I currently has a bachelor's degree in "Applied Mathematics and Informatics", wh
 ### :fire: Statistic :
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=o-frolova&show_icons=true&theme=material-palenight" align="center" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-frolova&layout=compact&theme=material-palenight" align="center" width="44%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-frolova&layout=compact&theme=material-palenight" align="center" width="43.5%" />
  </p>
 
 <p align="center">
