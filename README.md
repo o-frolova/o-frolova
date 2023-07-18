@@ -1,4 +1,4 @@
-<div> <img align="right"  src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" /></div>
+<div> <img align="right"  src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400" /></div>
 
 <div id="badges" align="left">
   <a href="https://www.kaggle.com/ofrolova">
@@ -17,7 +17,7 @@
 
 <div>
 <h2 align=""> ✌️ Hello, I'm Olga</h2>
-I currently has a bachelor's degree in spatial training "Applied Mathematics and Informatics", which I received at the National Research University Higher School of Economics. I actively study various aspects of mathematical modeling, statistics, algorithms and programming. In addition, I participated in projects to develop ML and DS solutions for business problems.
+I currently has a bachelor's degree in "Applied Mathematics and Informatics", which I received at the National Research University Higher School of Economics. I actively study various aspects of mathematical modeling, statistics, algorithms and programming. In addition, I participated in projects to develop ML and DS solutions for business problems.
 <p> </p>
 
 - 🤩 I always try to explore and learn something new
