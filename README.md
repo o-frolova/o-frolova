@@ -50,8 +50,15 @@ I currently has a bachelor's degree in "Applied Mathematics and Informatics", wh
 </div>
 
 ### :fire: Statistic :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=o-frolova&theme=ambient-gradient&border_radius=6.5)](https://git.io/streak-stats) 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=o-frolova&show_icons=true&theme=material-palenight" align="center" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-frolova&layout=compact&theme=material-palenight" align="center" width="44%" />
+ </p>
 
+<p align="center">
+  <a href="https://github.com/o-frolova/github-readme-streak-stats">
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=o-frolova&theme=material-palenight" width="60%" />
+    </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-frolova&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
