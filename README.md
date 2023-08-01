@@ -36,9 +36,6 @@ Data Scientist - Data magician. That's why I can do:
 <p> </p>
 <h2 align=""></h2>
 
-- 🤩 I always try to explore and learn something new
-- 🤝 I’m looking to collaborate with other with open source projects
-
 <br>
 </div>
 
