@@ -17,8 +17,24 @@
 
 <div>
 <h2 align=""> ✌️ Hello, I'm Olga</h2>
-I currently has a bachelor's degree in "Applied Mathematics and Informatics", which I received at the National Research University Higher School of Economics. I actively study various aspects of mathematical modeling, statistics, algorithms and programming. In addition, I participated in projects to develop ML and DS solutions for business problems.
+Data Scientist - Data magician. That's why I can do:
+
+- Conduct research, statistical analysis, and data processing to identify patterns, trends, and significant relationships
+- Develop machine learning models for pursuit, prediction, clustering, and other data-driven tasks
+- Develop algorithms for analyzing and understanding textual data
+- Create interactive and understandable data visualizations to present complex analysis results
+- Develop algorithms and models for business process optimization, inventory management, recommendations, and other tasks to improve efficiency and productivity.
+- Participate in identifying products and tools that enable a wider range of users to make informed decisions based on data
+- Apply data analysis to predict events and develop strategies for goals
+
 <p> </p>
+<b>Education:</b>
+  
+- [x] The National Research University Higher School of Economics, Nizhny Novgorod - Bachelor ("Applied Mathematics and Informatics")
+- [ ] The National Research University Higher School of Economics, Nizhny Novgorod - Master ("Data mining") in the process
+
+<p> </p>
+<h2 align=""></h2>
 
 - 🤩 I always try to explore and learn something new
 - 🤝 I’m looking to collaborate with other with open source projects
