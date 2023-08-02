@@ -19,13 +19,13 @@
 <h2 align=""> ✌️ Hello, I'm Olga</h2>
 Data Scientist - Data magician. That's why I can do:
 
-- Conduct research, statistical analysis, and data processing to identify patterns, trends, and significant relationships
-- Develop machine learning models for pursuit, prediction, clustering, and other data-driven tasks
-- Develop algorithms for analyzing and understanding textual data
-- Create interactive and understandable data visualizations to present complex analysis results
-- Develop algorithms and models for business process optimization, inventory management, recommendations, and other tasks to improve efficiency and productivity.
-- Participate in identifying products and tools that enable a wider range of users to make informed decisions based on data
-- Apply data analysis to predict events and develop strategies for goals
+- conduct research, statistical analysis, and data processing to identify patterns, trends, and significant relationships
+- develop machine learning models for pursuit, prediction, clustering, and other data-driven tasks
+- develop algorithms for analyzing and understanding textual data
+- create interactive and understandable data visualizations to present complex analysis results
+- develop algorithms and models for business process optimization, inventory management, recommendations, and other tasks to improve efficiency and productivity.
+- participate in identifying products and tools that enable a wider range of users to make informed decisions based on data
+- apply data analysis to predict events and develop strategies for goals
 
 <p> </p>
 <b>Education:</b>
@@ -60,6 +60,13 @@ Data Scientist - Data magician. That's why I can do:
   <a href="https://git-scm.com">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://numpy.org">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
+  </a>
+  
 </div>
 
 ### :fire: Statistic :
