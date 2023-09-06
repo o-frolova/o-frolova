@@ -2,18 +2,13 @@
 
 <div id="badges" align="left">
   <a href="https://www.kaggle.com/ofrolova">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="https://instagram.com/o_frolova_?igshid=OGQ5ZDc2ODk2ZA==">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-  </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://leetcode.com/o-frolova/">
+    <img src="https://img.shields.io/badge/Leetcode-white?&style=for-the-badge" alt="leetcode Badge"/>
   </a>
 </div>
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=o-frolova&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <div>
 <h2 align=""> ✌️ Hello, I'm Olga</h2>
