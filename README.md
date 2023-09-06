@@ -1,4 +1,4 @@
-<div> <img align="right"  src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400" /></div>
+<div> <img align="right"  src="https://docs.google.com/uc?id=1l_hPUvh2idvSsIM1Bv4UbwqOjvQz69Ak" width="350" /></div>
 
 <div id="badges" align="left">
   <a href="https://www.kaggle.com/ofrolova">
