@@ -18,7 +18,7 @@ Data Scientist - Data magician. That's why I can do:
 - develop machine learning models for pursuit, prediction, clustering, and other data-driven tasks
 - develop algorithms for analyzing and understanding textual data
 - create interactive and understandable data visualizations to present complex analysis results
-- develop algorithms and models for business process optimization, inventory management, recommendations, and other tasks to improve efficiency and productivity.
+- develop algorithms and models for business process optimization, inventory management, recommendations, and other tasks to improve efficiency and productivity
 - participate in identifying products and tools that enable a wider range of users to make informed decisions based on data
 - apply data analysis to predict events and develop strategies for goals
 
