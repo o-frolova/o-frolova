@@ -66,13 +66,13 @@ Data Scientist - Data magician. That's why I can do:
 
 ### :fire: Statistic :
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=o-frolova&show_icons=true&theme=graywhite" align="center" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-frolova&layout=compact&theme=graywhite" align="center" width="43.5%" />
+<img src="https://github-readme-stats.vercel.app/api?username=o-frolova&show_icons=true&theme=transparent" align="center" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-frolova&layout=compact&theme=transparent" align="center" width="43.5%" />
  </p>
 
 <p align="center">
   <a href="https://github.com/o-frolova/github-readme-streak-stats">
-     <img src="http://github-readme-streak-stats.herokuapp.com?user=o-frolova&theme=graywhite" width="60%" />
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=o-frolova&theme=transparent" width="60%" />
     </a>
 </p>
 
